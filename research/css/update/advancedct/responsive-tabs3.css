@@ -21,7 +21,7 @@
 	height: 54px;
 	/* padding: 0px 40px; */
 	
-	padding: 0px 110px;
+	padding: 0px 166px;
 	font-weight: 400;
 	text-decoration: none;
 	line-height: 50px;
@@ -75,7 +75,7 @@
 /*	#Themes
 //	================================================== */
 
-#example-3 .tabs3 li {
+#example-3 .tabs3 li{
 width: 100px;
 border: 1px solid #DDD;
 border-right: 0;
