@@ -255,11 +255,18 @@
 /* table */
 .table-content{
 	border: 1px solid rgb(223, 223, 223);
-	margin: 15px;
+	margin: auto;
 	height: auto;
 	width: auto;
+	
+	overflow-x: scroll;
+}
+.table-content th{
+	border: 1px solid  rgb(223, 223, 223);
 }
 .table-content td{
+	
+	max-width:auto;
 	padding-left: 10px;
 	background-color:#f3f3f3; ;
 	columns: 800px;
@@ -290,17 +297,16 @@
 .card-img{
 	height: 120px;
     width: auto;
-	
+	margin-bottom: 40px;
 }
 .card-img img{
+	background-size: cover;
 	display: block;
-	border-radius: 50px;
-	height: 100px;
-	width: 100px;
-	margin-top: 20px;
-	margin-left: auto;
-	margin-right: auto;
-}
+	border-radius: 70px;
+	height: 130px;
+	width: 130px;
+	margin: 70px auto auto auto;
+}	
 
 .data p{
 	font-size: 12px;
@@ -337,8 +343,9 @@
 
 }
 .card-end p{
+	
 	text-align: center;
-	margin-top: 20px;
+	margin-top: 40px;
 	/* margin: auto; */
 	margin-left: auto;
 	margin-right: auto;
