@@ -1,0 +1,32 @@
+.container_2{
+    padding-right:20px;
+    height:auto;
+    width: auto;
+}
+table{
+    color: black;
+    font-size: smaller;
+    width: 120%;
+    border-collapse: collapse;
+    align-content: center;
+    align-items: center;
+    z-index: -1;
+    table-layout: fixed;
+    word-wrap: break-word;
+}
+th,td{
+    text-align: center;
+}
+table th,td{
+    column-width: 160PX;
+    border: 1px solid black;
+}
+.table-scroll{
+    overflow: scroll;
+}
+.img-fluid{
+    width:135%;
+} 
+/* thead{
+    color:black;
+} */
