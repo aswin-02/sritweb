@@ -11,9 +11,8 @@ Research Clusters
 6. Nano and Semi Conductor Technology. --> research/nanoandsemiconductortechnology.html
 7.
 
-Note:
-sir,few faculty images are required for the image attachments
-therefore kindy provide me the images for the faculties listed below,
+Sir,
+New folder has been created named pictures ,the following faculties images are inserted.
 
         Dr.P.S.Prakash
         Dr. R.Kumar
