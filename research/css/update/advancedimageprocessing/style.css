@@ -259,10 +259,11 @@ h7{
 	overflow-x: scroll;
 }
 .table-content th{
+	color: #505050;
 	border: 1px solid  rgb(223, 223, 223);
 }
 .table-content td{
-	
+	color: rgb(105, 105, 105);
 	max-width:auto;
 	padding-left: 10px;
 	background-color:#f3f3f3; ;
@@ -288,16 +289,7 @@ h7{
 .popup p{
     margin-top: 20px;
 }
-/* table */
-.table-content{
-	margin: 15px;
-	height: auto;
-	width: auto;
-}
-.table-content td{
-	background-color:#f3f3f3; ;
-	columns: 800px;
-}
+
 /* cards section */
 .card{
 	margin-top: 50px;
