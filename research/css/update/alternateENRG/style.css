@@ -1,7 +1,6 @@
 .org_chart{
-    margin-left: 20%;
-    max-width: 100%;
     height: auto;
+    max-width: 100%;
 }
 .faculties{
     display: flex;
@@ -17,4 +16,7 @@
 }
 h6{
     color:gray;
+}
+li{
+    margin-bottom: 20px;
 }
