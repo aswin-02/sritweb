@@ -3,16 +3,13 @@
     height:auto;
     width: auto;
 }
-table{
-    color: black;
-    font-size: smaller;
-    width: 120%;
-    border-collapse: collapse;
-    align-content: center;
-    align-items: center;
-    z-index: -1;
-    table-layout: fixed;
-    word-wrap: break-word;
+.table-content{
+    border: 1px solid rgb(223, 223, 223);
+	margin: auto;
+	height: auto;
+	width: auto;
+	
+	overflow-x: scroll;
 }
 th,td{
     text-align: center;
@@ -25,7 +22,8 @@ table th,td{
     overflow: scroll;
 }
 .img-fluid{
-    width:135%;
+    height: auto;
+    max-width:100%;
 } 
 /* thead{
     color:black;
