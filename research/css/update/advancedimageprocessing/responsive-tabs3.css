@@ -21,7 +21,7 @@
 	height: 54px;
 	/* padding: 0px 40px; */
 	
-	padding: 0px 166px;
+	padding: 0px 110px;
 	font-weight: 400;
 	text-decoration: none;
 	line-height: 50px;
@@ -40,15 +40,15 @@
 }
 .tabs-content3 {
 	float: left;
-	width: 91%;
+	width: 100%;
 	padding: 5% 4% 3% 4%;
 	text-align: left;
 	margin-bottom: 40px;
 	margin-top: 0.5px;
 	border: 1px solid #e0e0e0;
-	background-color: #fff;
+	background-color: #ffffff;
 	position: relative;
-	z-index: 3;
+	
 }
 .tabs-content3 img.img_left2 {
 	width: auto;
@@ -59,7 +59,8 @@
 	padding: 20px;
 }
 .tabs-content3 .tabs-panel3 .tab-title3 {
-	background-color: red;
+	
+	
 	display: none;
 }
 .tabs-content3.two {

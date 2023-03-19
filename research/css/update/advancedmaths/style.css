@@ -1,0 +1,48 @@
+.container_2{
+    padding-right:20px;
+    height:auto;
+    width: auto;
+}
+
+table{
+    background-color:#ffffff;
+    color: black;
+    font-size: smaller;
+    width: 120%;
+    align-content: center;
+    align-items: center;
+    margin: auto;
+    z-index: -1;
+    table-layout: fixed;
+    word-wrap: break-word;
+   
+}
+
+ th{
+    border: 1px solid  rgb(211, 211, 211);
+    background-color: #ffffff;
+    color: rgb(71, 71, 71);
+    text-align: center;
+    column-width: 160PX;
+   
+}
+td{
+    background-color: #F3F3F3;
+    color: rgb(46, 46, 46);
+    text-align: center;
+    column-width: 160PX;
+    border: 0px solid rgb(255, 255, 255);
+
+}
+.table-scroll{
+    border: 1px solid  rgb(211, 211, 211);
+
+    overflow-x:scroll;
+}
+.img-fluid{
+    height: auto;
+    max-width:100%;
+} 
+/* thead{
+    color:black;
+} */
