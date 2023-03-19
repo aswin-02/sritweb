@@ -9,5 +9,6 @@ Research Clusters
 4. Advanced Theoretical Computer Science --> research/advancedtheoreticalcomputerscience.html
 5. Alternate Energy --> research/alternateenergy.html
 6. Nano and Semi Conductor Technology. --> research/nanoandsemiconductortechnology.html
-7. 
+7.
 
+note:
