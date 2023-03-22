@@ -10,11 +10,3 @@ Research Clusters
 5. Alternate Energy --> research/alternateenergy.html
 6. Nano and Semi Conductor Technology. --> research/nanoandsemiconductortechnology.html
 7.
-
-Sir,
-New folder has been created named pictures ,the following faculties images are inserted.
-
-        Dr.P.S.Prakash
-        Dr. R.Kumar
-        Dr.Jim Mathew Phillip
-        Dr.R.N.Devendra Kumar
