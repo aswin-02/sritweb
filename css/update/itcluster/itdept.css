@@ -1,0 +1,67 @@
+/*---itdept.css---/---itaccrodation.css---/---publicationtab.css---*/
+
+.chartimg {
+ height: 50%;
+ width: 60%;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+.list1 {
+    color: rgb(116, 116, 116);
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.subhead {
+    margin-left: -0.5%;
+    margin-right: none;
+    margin-top: 3%;
+    margin-bottom: 1%;
+}
+
+.gridcard {
+    background-color: rgb(219, 219, 219);
+    color: #000000;
+    margin-top: 20px;
+    padding-left: 4ch;
+    padding-top: 5ch;
+    padding-bottom: 7ch;
+    border-radius: 8px;
+    width: 38ch;
+}
+
+.cardhead {
+    margin-top: 0%;
+    margin-bottom: 8%;
+    color: #672d87;
+}
+
+
+.headcard {
+    min-width: auto;
+    height: auto;
+    margin-bottom: 10%;
+    margin-top: 4%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-bottom: 15%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 1px 1px 10px 1px rgb(156, 156, 156);
+}
+
+.headimg {
+    margin-top: 35px;
+    border-radius: 50%;
+    max-width: 100%;
+    height: 22%;
+}
+
+.hodname p {
+    margin-top: 10px;
+    text-align: center;
+    color: rgb(90, 90, 90);
+    cursor: pointer;
+}
