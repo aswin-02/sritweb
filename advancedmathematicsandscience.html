@@ -174,100 +174,10 @@ Sri Ramakrishna Institute of Technology (SRIT)
             </div>
 
             <!-- Menu -->
-            <div class="menu_main">
-              <div class="container">
-                <div class="navbar yamm navbar-default">
-                  <div class="container">
-                    <div class="navbar-header">
-                      <div
-                        class="navbar-toggle .navbar-collapse .pull-right"
-                        data-toggle="collapse"
-                        data-target="#navbar-collapse-1">
-                        <span>Menu</span>
-                        <button type="button">
-                          <i class="fa fa-bars"></i>
-                        </button>
-                      </div>
-                    </div>
-                    <div
-                      id="navbar-collapse-1"
-                      class="navbar-collapse collapse">
-                      <ul class="nav navbar-nav">
-                        <li><a href="index.html">Home</a></li>
-                        <li class="dropdown">
-                          <a
-                            href="#"
-                            data-toggle="dropdown"
-                            class="dropdown-toggle"
-                            >About us
-                          </a>
-                          <ul class="dropdown-menu" role="menu">
-                            <li><a href="history.html">History </a></li>
-                            <li>
-                              <a
-                                href="http://www.snrsonscharitabletrust.org/"
-                                target="_blank"
-                                >Management</a
-                              >
-                            </li>
-                            <li>
-                              <a href="principalmessage.html"
-                                >Principal's Message</a
-                              >
-                            </li>
-                            <li><a href="career.html">Career</a></li>
-                            <li>
-                              <a
-                                href="http://www.sritalumni.org/"
-                                target="_blank"
-                                >Alumni
-                              </a>
-                            </li>
-                            <li>
-                              <a href="governingbody.html">Governing Body</a>
-                            </li>
-                          </ul>
-                        </li>
-                        <li class="dropdown">
-                          <a
-                            href="#"
-                            data-toggle="dropdown"
-                            class="dropdown-toggle"
-                            >Academics</a
-                          >
-                          <ul class="dropdown-menu" role="menu">
-                            <li><a href="admission.html">Admission </a></li>
-                            <li><a href="departments.html">Departments</a></li>
-                            <li><a href="faculty.php">List of Faculty</a></li>
-                            <li>
-                              <a href="academic-calender.html"
-                                >Academic Calendar</a
-                              >
-                            </li>
-                            <li><a href="notification.html">Timetable</a></li>
-                            <li>
-                              <a href="acad_contact.html">Academic Contacts</a>
-                            </li>
-                            <li><a href="downloads.html">Downloads</a></li>
-                          </ul>
-                        </li>
-                        <li><a href="facilities.html">Facilities</a></li>
-                        <li><a href="placement.html">Placement</a></li>
-                        <li><a href="research.html">Research</a></li>
-                        <li>
-                          <a href="other-activites.html">Other Activites</a>
-                        </li>
-                        <li>
-                          <a href="newsandevents.html">News and Events</a>
-                        </li>
-                        <li><a href="gallery.php">Gallery</a></li>
-                        <li><a href="contact.html">Contact Us</a></li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+            <!--Navigation bar-->
+            <div id="nav-placeholder"></div>
+
+            <!--end of Navigation bar-->
             <!-- end menu -->
           </div>
         </div>
@@ -1635,5 +1545,12 @@ Sri Ramakrishna Institute of Technology (SRIT)
       type="text/javascript"
       src="js/lightbox/jquery.fancybox.js"></script>
     <script type="text/javascript" src="js/lightbox/custom.js"></script>
+
+    <!--loading navigation bar-->
+    <script>
+      $(function () {
+        $("#nav-placeholder").load("nav.html");
+      });
+    </script>
   </body>
 </html>
