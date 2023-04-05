@@ -10,3 +10,11 @@ Research Clusters
 5. Alternate Energy --> research/alternateenergy.html
 6. Nano and Semi Conductor Technology. --> research/nanoandsemiconductortechnology.html
 7.
+
+changes made after hosting:
+
+    -> Intelligent Signal Processing Research Cluster page added
+    -> heading name corrected in Advanced Image Processing page
+    -> kasperysky script commented in research-index page
+    -> department name in header is renamed to cluster name
+    -> hod image updated in ATCSRC page
